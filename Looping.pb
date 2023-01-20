@@ -17,4 +17,4 @@ IncludeFile "include\mainloop.pbi"
 ; Executable = _release\old\LoopingMusicStudio.exe
 ; Warnings = Display
 ; EnablePurifier
-; EnableCompileCount = 709
+; EnableCompileCount = 710
